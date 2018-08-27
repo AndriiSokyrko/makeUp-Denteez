@@ -209,9 +209,100 @@
 					<span>Drinks</span>
 				</div> <!-- //col -->
 			</div><!-- //row -->
+			<h3>& much more sensational  food & drinks...</h3>
+			<input class="btn-slider" type="button" value="view full menu">
 
 		</div><!-- //container -->
 	</section>
+
+	<section class="sct-4-bg clearfix">
+
+		<div class="container sct-4-container">
+			<div class="row sct-4-row">
+				<div class="title-wrapper">
+					<h4 class="subtitle">
+						catering
+					</h4>
+					<h2 class=" ">
+						<span>Planning a Fabulous</span>
+						<span>Event? </span>
+					</h2>
+				</div>
+
+
+				<div class="col-xs-12   col-sm-6  col-md-3 col-lg-3 sct-4-left">
+					<div class="sct-4-item-left">
+						<h3>Weddings </h3>
+						<span>01</span>
+						<p>
+							Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+							tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
+							nostrud exerci tation ullamcorper.
+							suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure.
+							dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat
+							nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent
+							luptatum zzril nibh euismod tincidunt ut laoreet dolore
+						</p></div>
+					<div class="sct-4-item-left"><h3>corporate<span>02</span></h3>
+						<p>
+							Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+							tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
+							nostrud exerci tation ullamcorper.
+							suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure.
+							dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat
+							nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent
+							luptatum zzril nibh euismod tincidunt ut laoreet dolore
+						</p></div>
+					<div class="sct-4-item-left"><h3>Socials<span>03</span></h3>
+						<p>
+							Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+							tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
+							nostrud exerci tation ullamcorper.
+							suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure.
+							dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat
+							nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent
+							luptatum zzril nibh euismod tincidunt ut laoreet dolore
+						</p></div>
+
+				</div> <!-- //col -->
+				  <!-- //col -->
+				<div class="col-xs-12   col-sm-6  col-md-6 col-lg-6 sct-4-center">
+					<img class="img-responsive" src="images/sct-4-item-img-center.png" alt="">
+				</div> <!-- //col -->
+				<div class="col-xs-12   col-sm-6  col-md-3 col-lg-3 sct-4-right">
+					<div class="sct-4-item-left"><h3><span>04</span>Picnics</h3>
+						<p>
+							Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper.
+							suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure.
+							dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril nibh euismod tincidunt ut laoreet dolore
+						</p></div>
+					<div class="sct-4-item-left"><h3> <span>05</span>festivals</h3>
+						<p>
+							Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper.
+							suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure.
+							dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril nibh euismod tincidunt ut laoreet dolore
+						</p></div>
+					<div class="sct-4-item-left"><h3> <span>06</span>private Paties</h3>
+						<p>
+							Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper.
+							suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure.
+							dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril nibh euismod tincidunt ut laoreet dolore
+						</p></div>
+				</div> <!-- //col -->
+			</div><!-- //row -->
+			<h4>& much more sensational  food & drinks...</h4>
+			<input class="btn-slider" type="button" value="view full menu">
+
+		</div><!-- //container -->
+	</section>
+	
+	<!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
+	
+	
+	
+	
+	
+	
 
 	<section class="sct-4-bg clearfix">
 
